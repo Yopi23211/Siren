@@ -7,6 +7,6 @@ binding = "SIREN"
 id = "3b4661d3444940da92d6d88e963d13da"
 
 [vars]
-UUID = "aae9e94e-1bcd-44ef-90ce-20b427ed7eed"
+UUID = "ae812476bedcc08e27e4136aeda07dd3"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Siren/refs/heads/master/web/sub.html"
